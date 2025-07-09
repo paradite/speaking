@@ -4,12 +4,13 @@ _This document contains speaking engagements by Zhu Liang._
 
 ## Towards Personalized Evaluation for Prompts and Models
 
-Event Details:
+Presentation at [Singapore AI Showcase (May 2025)](https://lu.ma/oazupw94?tk=2hQMia):
 
 - Event: Singapore AI Showcase (May 2025)
   - https://lu.ma/oazupw94?tk=2hQMia
 - Date: May 27, 2025
 - Venue: National Library / Lee Kong Chian Reference Library, Singapore
+- Talk Slides: [Google Slides](https://docs.google.com/presentation/d/1GK-9TJGPXk95SjpEg1y9s5kS27hywYOgZQtL6q5xSkQ/edit?usp=sharing)
 
 Main topics in the talk:
 
@@ -22,10 +23,6 @@ Main topics in the talk:
 - Importance of having personalized evals
 - Demo of [16x Eval](https://eval.16x.engineer/)
 
-Slides for the talk:
-
-- https://docs.google.com/presentation/d/1GK-9TJGPXk95SjpEg1y9s5kS27hywYOgZQtL6q5xSkQ/edit?usp=sharing
-
 Photos from the event:
 
 |               |                                                                                                                    |
@@ -36,7 +33,7 @@ Photos from the event:
 
 ## Building My Own AI-SDK
 
-Event Details:
+Presentation at [AI Tinkerers Singapore: May Meetup](https://singapore.aitinkerers.org/p/ai-tinkerers-singapore-may-meetup-may-21st-2025):
 
 - Event: AI Tinkerers Singapore: May Meetup
   - https://singapore.aitinkerers.org/p/ai-tinkerers-singapore-may-meetup-may-21st-2025
