@@ -23,8 +23,8 @@ Main topics in the talk:
 
 Photos from the event:
 
-<img src="images/singapore-ai-showcase-title.jpeg" alt="Singapore AI Showcase - Title" style="max-width: 600px; width: 100%;">
-
-<img src="images/singapore-ai-showcase-intro.jpg" alt="Singapore AI Showcase - Intro" style="max-width: 600px; width: 100%;">
-
-<img src="images/singapore-ai-showcase-popular-evals.png" alt="Singapore AI Showcase - Popular Evals" style="max-width: 600px; width: 100%;">
+|               |                                                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Title slide   | <img src="images/singapore-ai-showcase-title.jpeg" alt="Singapore AI Showcase - Title" width="600">                |
+| Introduction  | <img src="images/singapore-ai-showcase-intro.jpg" alt="Singapore AI Showcase - Intro" width="600">                 |
+| Popular Evals | <img src="images/singapore-ai-showcase-popular-evals.png" alt="Singapore AI Showcase - Popular Evals" width="600"> |
