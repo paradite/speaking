@@ -46,3 +46,28 @@ Main topics in the talk:
   - Handle edge cases between different model providers and models
   - Have a one unified library for all model providers, instead of N libraries for N model providers
 - Code walk-through of send-prompt, which is open-sourced on [GitHub](https://github.com/paradite/send-prompt)
+
+## ChatGPT for Coding: Best Practices and Looking Ahead
+
+Presentation at [JuniorDevSG](https://www.meetup.com/junior-developers-singapore/events/299967566/):
+
+- Event: Developers' Gym - ChatGPT for Coding: Best Practices and Looking Ahead
+  - https://www.meetup.com/junior-developers-singapore/events/299967566/
+- Date: April 13, 2024
+- Venue: Thoughtworks Office, Singapore
+- Talk Slides: [Google Slides](https://docs.google.com/presentation/d/1XkbRoqlpjsULox88Uu2TOK8_aQ0spN4VChR1Vh5aNKc/edit?usp=sharing)
+
+Main topics in the talk:
+
+- How to use ChatGPT effectively for daily coding tasks to become more productive, with practical examples
+- Deeper dive into what LLMs can do and their limitations
+- Best practices for AI-assisted coding
+- Looking ahead at future developments in AI for coding
+
+Photo from the event:
+
+|                    |                                                                                                           |
+| ------------------ | --------------------------------------------------------------------------------------------------------- |
+| Title slide        | <img src="images/junior-dev-sg-title.jpg" alt="JuniorDevSG - Title" width="600">                          |
+| Insruct, Don't Ask | <img src="images/junior-dev-sg-instruct-dont-ask.jpg" alt="JuniorDevSG - Insruct, Don't Ask" width="600"> |
+| Audience           | <img src="images/junior-dev-sg-audience.jpg" alt="JuniorDevSG - Audience" width="600">                    |
